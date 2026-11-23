@@ -37,7 +37,7 @@ Explorando a tecnologia, desenvolvendo projetos e aprendendo a transformar ideia
 
 
 ### 📂 Projetos em destaque
-*🔎 Alpha Insights**
+**🔎 Alpha Insights**
 Projeto desenvolvido durante a formação IA e Dados – Geração Caldeira, explorando aplicações de inteligência artificial e integração com ferramentas de dados.
 
 https://github.com/inojosayolmi-lang/tech-journey/tree/main/ia-dados-geracao-caldeira/Alpha-bot
