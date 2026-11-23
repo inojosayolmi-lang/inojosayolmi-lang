@@ -19,16 +19,6 @@ Explorando a tecnologia, desenvolvendo projetos e aprendendo a transformar ideia
 - 🔐 Interesse em tecnologia, redes e cibersegurança.
 - 🚀 Construindo projetos para desenvolver minhas habilidades.
 
-*🔎 Alpha Insights**
-Projeto desenvolvido durante a formação IA e Dados – Geração Caldeira, explorando aplicações de inteligência artificial e integração com ferramentas de dados.
-
-https://github.com/inojosayolmi-lang/tech-journey/tree/main/ia-dados-geracao-caldeira/Alpha-bot
-
-**🎧 TechHelp Dashboard**
-Dashboard desenvolvido como projeto prático, com foco em organização e visualização de informações relacionadas ao suporte técnico.
-https://github.com/inojosayolmi-lang/tech-journey/tree/main/ia-dados-geracao-caldeira/Dashboard-techhelp-solution/Dashboard-techhelp-solution
-
-
 
 
 ### 🛠️ Tecnologias e ferramentas
@@ -47,7 +37,13 @@ https://github.com/inojosayolmi-lang/tech-journey/tree/main/ia-dados-geracao-cal
 
 
 ### 📂 Projetos em destaque
+*🔎 Alpha Insights**
+Projeto desenvolvido durante a formação IA e Dados – Geração Caldeira, explorando aplicações de inteligência artificial e integração com ferramentas de dados.
 
-Em breve, meus principais projetos estarão organizados aqui!
+https://github.com/inojosayolmi-lang/tech-journey/tree/main/ia-dados-geracao-caldeira/Alpha-bot
+
+**🎧 TechHelp Dashboard**
+Dashboard desenvolvido como projeto prático, com foco em organização e visualização de informações relacionadas ao suporte técnico.
+https://github.com/inojosayolmi-lang/tech-journey/tree/main/ia-dados-geracao-caldeira/Dashboard-techhelp-solution/Dashboard-techhelp-solution
 
 
