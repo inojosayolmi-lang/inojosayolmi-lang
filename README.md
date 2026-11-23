@@ -47,3 +47,40 @@ Dashboard desenvolvido como projeto prático, com foco em organização e visual
 https://github.com/inojosayolmi-lang/tech-journey/tree/main/ia-dados-geracao-caldeira/Dashboard-techhelp-solution/Dashboard-techhelp-solution
 
 
+
+---
+
+### 🎓 Formação e aprendizado
+
+- **Técnico em Análise e Desenvolvimento de Sistemas** — SENAC *(em andamento)*.
+- **IA e Dados** — Geração Caldeira.
+- **Mulher Digital** — JA Achievement e Cisco.
+
+### 📜 Certificações
+
+### 📜 Certificações e cursos
+
+**Cisco**
+- Conceitos Básicos de Redes.
+- Introdução à Cibersegurança.
+- Segurança de Endpoint
+- Defesa de Rede.
+
+**Alura**
+- Suporte Técnico.
+- Excel.
+
+---
+
+### 📫 Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yolmirecsi-inojosa/)
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-681D35?style=for-the-badge&logo=vercel&logoColor=white)](https://yolmi-portolio.vercel.app/)
+
+</div>
+
+
+
